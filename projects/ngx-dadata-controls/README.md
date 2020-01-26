@@ -1,0 +1,1 @@
+Модифицированный форк https://github.com/kolkov/ngx-dadata
